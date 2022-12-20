@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 20 Dec 2022 01:31:12 at http://www.techshore.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.techshore.com/ -O1 "D:\WEBSITE\techshore" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:31:16	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.techshore.com/site.html
+01:31:18	Error: 	"Not Found" (404) at link www.techshore.com/site.html (from www.techshore.com/)
+01:32:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.techshore.com/https://
+01:32:25	Error: 	"Not Found" (404) at link www.techshore.com/https:// (from www.techshore.com/electrical_qaqc.html)
+01:32:36	Error: 	"Not Found" (404) at link www.techshore.com/assets/assets/images/select_arrow.png (from www.techshore.com/assets/css/course.css)
+01:32:36	Error: 	"Not Found" (404) at link www.techshore.com/assets/assets/images/select_img.png (from www.techshore.com/assets/css/course.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 28 seconds : 440 links scanned, 435 files written (69698076 bytes overall), 1 files updated [94065 bytes received at 1068 bytes/sec], 1166 bytes transferred using HTTP compression in 2 files, ratio 61%, 24.4 requests per connection
+(4 errors, 2 warnings, 0 messages)
